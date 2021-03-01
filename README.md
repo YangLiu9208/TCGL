@@ -14,7 +14,7 @@ Soon will be available.
 ```
 @ARTICLE{yliuTCG, 
 author={Yang Liu, Keze Wang, Haoyuan Lan, Liang Lin}, 
-journal={submitted to CVPR2021}, 
+journal={Preprint}, 
 title={Temporal Contrastive Graph for Self-supervised Video Representation Learning}, 
 year={2021}, 
 volume={}, 
