@@ -1,4 +1,4 @@
-## Temporal Contrastive Graph for Self-supervised Video Representation Learning
+## Temporal Contrastive Graph Learning for Video Action Recognition and Retrieval  
 Preprint
 
 <a href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-9423-9252</a>
@@ -12,10 +12,10 @@ Attempt to fully discover the temporal diversity and global-local chronological 
 Soon will be available.    
 
 ```
-@ARTICLE{yliuTCG, 
+@ARTICLE{yliuTCGL, 
 author={Yang Liu, Keze Wang, Haoyuan Lan, Liang Lin}, 
 journal={Preprint}, 
-title={Temporal Contrastive Graph for Self-supervised Video Representation Learning}, 
+title={Temporal Contrastive Graph Learning for Video Action Recognition and Retrieval  }, 
 year={2021}, 
 volume={}, 
 number={}, 
