@@ -8,6 +8,10 @@ Homepage: [https://yangliu9208.github.io/home/](https://yangliu9208.github.io/ho
 ## Abstract
 Attempt to fully discover the temporal diversity for self-supervised video representation learning, this work takes advantage of the temporal dependencies within videos and further proposes a novel self-supervised method named Temporal Contrastive Graph Learning (TCGL). In contrast to the existing methods that consider the temporal dependency from a single scale, our TCGL roots in a hybrid graph contrastive learning strategy to jointly regard the inter-snippet and intra-snippet temporal dependencies as self-supervision signals for temporal representation learning. To learn multi-scale temporal dependencies, the TCGL integrates the prior knowledge about the frame and snippet orders into graph structures, i.e., the intra-/inter- snippet temporal contrastive graph modules. By randomly removing edges and masking node features of the intra-snippet graphs or inter-snippet graphs, the TCGL can generate different correlated graph views. Then, specific contrastive learning modules are designed to maximize the agreement  between nodes in different views. To learn the global context representation and recalibrate the channel-wise features adaptively, we introduce an adaptive video snippet order prediction module, which leverages the relational knowledge among video snippets to predict the actual snippet orders. Experimental results demonstrate the superiority of our TCGL over the state-of-the-art methods on large-scale action recognition and video retrieval benchmarks.
 
+## Model
+![Image](Fig1.png)
+Figure 1: Framework of our proposed TCGL. 
+
 ## Codes 
 The codes are available now!    
 
