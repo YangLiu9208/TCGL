@@ -1,5 +1,5 @@
 ## [TCGL: Temporal Contrastive Graph for Self-spervised Video Representation Learning](https://arxiv.org/abs/2112.03587)
-IEEE Transactions on Image Processing (Under Major Revision)
+IEEE Transactions on Image Processing 2022
 
 <a href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-9423-9252</a>
 
