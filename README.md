@@ -27,11 +27,15 @@ For example, pretrain R3D backbone on UCF101, evaluate video retrieval on UCF101
 2. Run 4_retrieve_clips.py to load the pretrained model to conduct video retrieval.
 
 ```
-@article{liu2021tcgl,
-  title={TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning},
+@article{tcgl,
   author={Liu, Yang and Wang, Keze and Liu, Lingbo and Lan, Haoyuan and Lin, Liang},
-  journal={arXiv preprint arXiv:2112.03587},
-  year={2021}
+  journal={IEEE Transactions on Image Processing}, 
+  title={TCGL: Temporal Contrastive Graph for Self-Supervised Video Representation Learning}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={1978-1993},
+  doi={10.1109/TIP.2022.3147032}
 }
 ``` 
 If you have any question about this code, feel free to reach me (liuy856@mail.sysu.edu.cn) 
